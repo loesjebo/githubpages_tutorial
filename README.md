@@ -7,6 +7,13 @@
 
 # GitHub Pages
 
+Will be live at
+
+http(s)://<username>.github.io/<repository>
+
+For example this one will be live at: [https://loesjebo.github.io/githubpages_tutorial](https://loesjebo.github.io/githubpages_tutorial)
+
+
 _Create a site or blog from your GitHub repositories with GitHub Pages._
 
 <!--
